@@ -1,0 +1,9 @@
+//ejercicio1
+Console.WriteLine("Ingresa tu nombre");
+String nombre = Console.ReadLine();
+Console.WriteLine("Mi nombre es " + nombre);
+
+//ejercicio2
+Console.WriteLine("Ingresa tu nombre");
+String Hora = DateTime.Now.ToString("hh:mm");
+Console.WriteLine("La hora es " + Hora);
